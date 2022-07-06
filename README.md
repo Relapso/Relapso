@@ -1,12 +1,17 @@
-olá pessoal, eu sou o Vini, Fiquem a vontade 👋
 
-<img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px"/>
+<div>
+ Olá pessoal, eu sou o Vini, Fiquem a vontade 
+<img width="50" height="50" src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px"/>
+</div>
+
 
 - 🔭 Buscando minha motivação através da programação.
 - 🌱 Estudando Sistemas de informaçao FHO, HTML, CSS, JAVASCRIPT
 - 📫 Contate-me: v.i.n2@icloud.com
 - 😄 Pronomes: Ele / Dele
-<br><br>
+
+##
+
 <div align="center">
   <a href="https://github.com/Relapso">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Relapso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
