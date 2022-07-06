@@ -10,6 +10,8 @@ olá pessoal, eu sou o Vini, Fiquem a vontade 👋
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Relapso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relapso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+ img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px" 
 
   ##
   
