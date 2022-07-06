@@ -1,5 +1,7 @@
 olá pessoal, eu sou o Vini, Fiquem a vontade 👋
 
+<img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px"/>
+
 - 🔭 Buscando minha motivação através da programação.
 - 🌱 Estudando Sistemas de informaçao FHO, HTML, CSS, JAVASCRIPT
 - 📫 Contate-me: v.i.n2@icloud.com
@@ -11,8 +13,6 @@ olá pessoal, eu sou o Vini, Fiquem a vontade 👋
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relapso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px" 
-
   ##
   
 <div>
