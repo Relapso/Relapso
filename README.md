@@ -5,8 +5,8 @@
 </div>
 
 
-- 🔭 Buscando minha motivação através da programação.
-- 🌱 Estudando Sistemas de informaçao FHO, HTML, CSS, JAVASCRIPT
+- 🔭 Buscando a programaçãoo através da motivação
+- 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT
 - 📫 Contate-me: v.i.n2@icloud.com
 - 😄 Pronomes: Ele / Dele
 
