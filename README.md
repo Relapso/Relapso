@@ -6,7 +6,7 @@
 
 
 - 🔭 Buscando a programaçãoo através da motivação
-- 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT
+- 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT, C
 - 📫 Contate-me: v.i.n2@icloud.com
 - 😄 Pronomes: Ele / Dele
 
