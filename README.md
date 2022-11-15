@@ -25,7 +25,6 @@
    <img align="center" alt="Vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Vi-Js" height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="right" alt="Vi-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/6aNDWPF18CkAAAAC/star-tamtl%C4%B1.gif">
 </div>
 <div>
    
