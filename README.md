@@ -5,10 +5,11 @@
 </div>
 
 
-- 🔭 Buscando a programação através da motivação
+- 🔭 90% do sucesso baseia-se em insistir
 - 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT, C
 - 📫 Contate-me: v.i.n2@icloud.com
-- 😄 Pronomes: Ele / Dele
+
+
 
 ##
 
