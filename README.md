@@ -7,7 +7,7 @@
 
 - 🔭 90% do sucesso baseia-se em insistir
 - 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, UML
-- 📫 Contate-me: v.i.n2@icloud.com
+- 📫 Contate-me: viniciusdevenezio@gmail.com
 
 
 
