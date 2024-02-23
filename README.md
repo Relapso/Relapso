@@ -3,7 +3,8 @@
     <ul style="list-style-type: none; padding: 0;">
         -🔭 90% do sucesso baseia-se em insistir<br>
         -📫 Contate-me: viniciusdevenezio@gmail.com<br>
-        -🧑‍💻 Estudando Sistemas de Informação na FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML<br>
+        -👨‍🎓 Bacharel em Sistemas de informações pela FHOH<br>
+        -🧑‍💻 Linguagens e marcações: HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML<br>
     </ul>
 </div>
 
