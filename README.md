@@ -1,10 +1,9 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="50" height="50">
-    <p>Olá pessoal, eu sou o Vini. Fiquem à vontade</p>
+    <p>Olá pessoal, eu sou o Vini. Fiquem à vontade</p> <img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="50" height="50">
     <ul style="list-style-type: none; padding: 0;">
-        -🔭 90% do sucesso baseia-se em insistir
-        -📫 Contate-me: viniciusdevenezio@gmail.com
-        -🧑‍💻 Estudando Sistemas de Informação na FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML
+        -🔭 90% do sucesso baseia-se em insistir<br>
+        -📫 Contate-me: viniciusdevenezio@gmail.com<br>
+        -🧑‍💻 Estudando Sistemas de Informação na FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML<br>
     </ul>
 </div>
 
