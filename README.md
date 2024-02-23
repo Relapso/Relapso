@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <p>Olá pessoal, eu sou o Vini. Fiquem à vontade</p>
     <img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="50" height="50">
     <ul style="list-style-type: none; padding: 0;">
