@@ -1,13 +1,13 @@
-
-<div>
- Olá pessoal, eu sou o Vini, Fiquem a vontade 
-<img width="50" height="50" src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="0px"/>
+<div style="text-align: center;">
+    <p>Olá pessoal, eu sou o Vini. Fiquem à vontade</p>
+    <img src="https://user-images.githubusercontent.com/104936042/177441792-3d41aef0-c1fe-468c-a6cd-8259cb11c3aa.gif" width="50" height="50">
+    <ul style="list-style-type: none; padding: 0;">
+        <li>🔭 90% do sucesso baseia-se em insistir</li>
+        <li>🌱 Estudando Sistemas de Informação na FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML</li>
+        <li>📫 Contate-me: viniciusdevenezio@gmail.com</li>
+    </ul>
 </div>
 
-
-- 🔭 90% do sucesso baseia-se em insistir
-- 🌱 Estudando Sistemas de informaçao FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML
-- 📫 Contate-me: viniciusdevenezio@gmail.com
 
 
 
