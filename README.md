@@ -4,7 +4,7 @@
     <ul style="list-style-type: none; padding: 0;">
         -🔭 90% do sucesso baseia-se em insistir</li>
         -🌱 Estudando Sistemas de Informação na FHO. HTML, CSS, JAVASCRIPT, C, JAVA, PYTHON, SQL, AWS, PHP 8, UML</li>
-        -📫 Contate-me: viniciusdevenezio@gmail.com</li>
+        -📫 Contate-me: viniciusdevenezio@gmail.com</li><br>
     </ul>
 </div>
 
