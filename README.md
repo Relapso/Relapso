@@ -6,7 +6,14 @@
   </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" style="vertical-align:middle; margin-right:8px;">
+    About Me
+  </h2>
+</div>
+
+<hr>
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Country-Brazil-blue?style=for-the-badge" />
