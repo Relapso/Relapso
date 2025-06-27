@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Vini" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Vini" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Country-Brazil-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎂%20Age-25-blue?style=for-the-badge" />
