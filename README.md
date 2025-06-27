@@ -19,5 +19,13 @@
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Developer-blue?style=for-the-badge" />
 </p>
 
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px" style="vertical-align:middle; margin-right:8px;">
+    Current Project
+  </h2>
+</div>
+
+
 ![Alt text](https://camo.githubusercontent.com/8476bafc21e97404a1a181562dce9ea2ec2dec599c2d2c81d7df3ecf8830c77d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d353841364646266865696768743d3132302673656374696f6e3d686561646572)
 
