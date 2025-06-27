@@ -12,7 +12,7 @@
     About Me
   </h2>
 </div>
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Country-Brazil-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎂%20Age-25-blue?style=for-the-badge" />
