@@ -5,9 +5,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/main/brazil.svg" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/main/years.svg" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/main/dev.svg" width="140px"/></td>
+    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/brazil.svg?token=GHSAT0AAAAAADGJPXFEWNJX75YNU4TDMETG2C7B2TA" width="140px"/></td>
+    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/years.svg?token=GHSAT0AAAAAADGJPXFFC6CJIU5S4SDZA4BU2C7B25Q" width="140px"/></td>
+    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/dev.svg?token=GHSAT0AAAAAADGJPXFETYZT6V7IEGAUBQH42C7B3BA" width="140px"/></td>
   </tr>
 </table>
 
