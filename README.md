@@ -6,6 +6,11 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+![Coding](https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Country-Brazil-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎂%20Age-25-blue?style=for-the-badge" />
