@@ -6,8 +6,8 @@
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/brazil.svg?token=GHSAT0AAAAAADGJPXFFSUOB3SCHW6BIR55K2C7CCWA" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/years.svg?token=GHSAT0AAAAAADGJPXFFC6CJIU5S4SDZA4BU2C7B25Q" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/dev.svg?token=GHSAT0AAAAAADGJPXFETYZT6V7IEGAUBQH42C7B3BA" width="140px"/></td>
+    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/years.svg?token=GHSAT0AAAAAADGJPXFE7OXNRSPZG7JMZF4Y2C7CD5A" width="140px"/></td>
+    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/dev.svg?token=GHSAT0AAAAAADGJPXFFXXTEW7FEO2N7M6WM2C7CFHQ" width="140px"/></td>
   </tr>
 </table>
 
