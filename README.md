@@ -1,4 +1,4 @@
-![Alt text](https://camo.githubusercontent.com/8476bafc21e97404a1a181562dce9ea2ec2dec599c2d2c81d7df3ecf8830c77d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d353841364646266865696768743d3132302673656374696f6e3d686561646572)
+![Alt text](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
