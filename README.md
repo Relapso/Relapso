@@ -3,13 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+eu+sou+o+Vini)](https://git.io/typing-svg)
 
 
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/brazil.svg?token=GHSAT0AAAAAADGJPXFFSUOB3SCHW6BIR55K2C7CCWA" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/years.svg?token=GHSAT0AAAAAADGJPXFE7OXNRSPZG7JMZF4Y2C7CD5A" width="140px"/></td>
-    <td><img src="https://raw.githubusercontent.com/Relapso/profileContents/refs/heads/main/dev.svg?token=GHSAT0AAAAAADGJPXFFXXTEW7FEO2N7M6WM2C7CFHQ" width="140px"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Country-Brazil-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎂%20Age-25-blue?style=for-the-badge" />
+  <img src="[https://img.shields.io/badge/🎂%20Age-25-blue?style=for-the-badge](https://img.shields.io/badge/💻%20Developer-blue?style=for-the-badge)" />
+</p>
 
 ![Alt text](https://camo.githubusercontent.com/8476bafc21e97404a1a181562dce9ea2ec2dec599c2d2c81d7df3ecf8830c77d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d353841364646266865696768743d3132302673656374696f6e3d686561646572)
 
